@@ -1,0 +1,28 @@
+#BOTH
+
+var                           W         p.value
+Closeness.Centrality          0.9576562 0.557088331
+Harmonic.Closeness.Centrality 0.9347792 0.235451072
+Betweeness.Centrality         0.8009867 0.001568471
+Eigenvector.Centrality        0.9844490 0.984166499
+
+#RANK_NOT_FORUM
+
+var                           W         p.value
+Closeness.Centrality          0.9271308 1.106701e-03
+Harmonic.Closeness.Centrality 0.9284040 1.255989e-03
+Betweeness.Centrality         0.3998640 1.292287e-14
+Eigenvector.Centrality        0.9542886 2.008355e-02
+
+#FORUM_NOT_RANK
+
+var                           W         p.value
+Closeness.Centrality          0.9596883 2.693270e-01
+Harmonic.Closeness.Centrality 0.9353884 5.544578e-02
+Betweeness.Centrality         0.6600641 2.314435e-07
+Eigenvector.Centrality        0.9709561 5.262043e-01
+
+50889397
+
+R66628
+
